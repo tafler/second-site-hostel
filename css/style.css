@@ -1,0 +1,84 @@
+section#main{
+	padding-top: 20px;
+	background: url(../img/mainbg.jpg) no-repeat;
+	background-size: cover;
+	background-position: center;	
+	padding-bottom: 60px;
+}
+
+.header-box{
+	width: 100%;	
+}
+.header-box div img{
+	margin: 0 auto;
+}
+
+.contact{
+	color: white;
+	font-family: "Ubuntu";	
+}
+.contact h3{
+	font-family: "Ubuntu light";
+	font-weight: bold;
+	color: white;
+	text-decoration: none;
+}
+.contact a:hover{	
+	text-decoration: none;	
+}
+.socials{
+	padding-top: 10px;
+	
+}
+.socials img{
+	width: 40px;
+}
+.socials a{
+	margin-left: 10px;
+
+}
+.socials a:first-child{
+	margin-left: 0px;
+}
+.title h1{
+	margin-top: 140px;
+	color: white;
+	font-family: 'Ubuntu';
+
+	font-size: 60px;
+	font-weight: bold;
+}
+
+.header-form{
+	color: white;
+	font-family: "Ubuntu";
+	margin-top: 3%;
+
+}
+.mainform{
+	background-color: rgba(255,255,255,0.47);
+	padding: 10px;
+	min-height: 230px;
+}
+.mainform h2{
+	padding-bottom: 30px;
+	font-weight: bold;
+	font-family: "Ubuntu Light";
+	line-height: 1.2;  
+}
+
+.mainform input{
+	width: 90%;
+	padding: 15px 40px;
+	border-radius: 5px;
+	margin-left: 25px;
+}
+.main-btn{
+	background-color: #a60436;
+	border: none;
+	border-bottom: 3px solid #4d0215;
+	border-radius: 5px;
+	color: white;
+	padding: 15px 40px;
+	cursor: pointer;
+}
